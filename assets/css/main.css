@@ -187,6 +187,10 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', Arial, sans-serif;
 	}
 
+	nav > ul {
+		font-family: 'Bebas', sans-serif;
+	}
+
 	p {
 		text-align: justify;
 		font-family: 'Source Sans Pro', Arial, sans-serif;
