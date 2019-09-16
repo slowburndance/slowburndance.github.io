@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
+@import url('https://fonts.googleapis.com/css?family=Oswald:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Archivo|Roboto&display=swap');
 @import url("fontawesome-all.min.css");
 @font-face { font-family: Bebas; src: url('../webfonts/bebas/BebasNeue-Regular.otf'); } 
 @font-face { font-family: Bebas; font-style: italic; src: url('../webfonts/bebas/BebasNeue-Italic.otf'); } 
@@ -107,7 +109,7 @@ input, select, textarea {
 	input, textarea, select {
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Archivo', sans-serif;
 		font-weight: 300;
 	}
 
@@ -184,7 +186,7 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
-		font-family: 'Avenir Next', Arial, sans-serif;
+		font-family: 'Archivo', Arial, sans-serif;
 	}
 
 	nav > ul {
@@ -193,7 +195,7 @@ input, select, textarea {
 
 	p {
 		text-align: left;
-		font-family: 'Avenir Next', Arial, sans-serif;
+		font-family: 'Archivo', Arial, sans-serif;
 	}
 
 	br.clear {
@@ -2063,12 +2065,12 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
-		color: #fff;
+		background: #fff;
+		color: #000;
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
-		padding: 0.55em 2em 0.55em 2em;
+		padding: 0.71em 2em 0.55em 2em;
 		border: 0;
 		cursor: pointer;
 		outline: 0;
